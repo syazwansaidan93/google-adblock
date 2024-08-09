@@ -1,5 +1,4 @@
 googleads.g.doubleclick.net
-ssl.google-analytics.com
 digitalassetlinks.googleapis.com
 semanticlocation-pa.googleapis.com
 people-pa.googleapis.com
@@ -12,9 +11,7 @@ doubleclick.net
 auditrecording-pa.googleapis.com
 userlocation.googleapis.com
 firebasemoteconfig.googleapis.com
-settings.crashlytics.com
 playatoms-pa.googleapis.com
-id.google.com
 bcmls2.glpals.com
 gllto2.glpals.com
 glpals.com
@@ -28,6 +25,3 @@ pai.googlezip.net
 photosdata-pa.googleapis.com
 peoplestack-pa.googleapis.com
 notifications-pa.googleapis.com
-geomobileservices-pa@googleapis.com
-locationhistory-pa.googleapis.com
-gameswhitelisted.googleapis.com
