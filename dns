@@ -107,6 +107,8 @@
 [/*.hihonorcloud.com/]127.0.0.1:5335
 [/*.allawnos.com/]127.0.0.1:5335
 [/*.amazonaws.com/]127.0.0.1:5335
+[/*.my/]127.0.0.1:5335
+[/*.org/]127.0.0.1:5335 
 
 https://dns.google/dns-query
 
