@@ -106,3 +106,5 @@
 [/*.google.cn/]127.0.0.1:5335
 [/*.hihonorcloud.com/]127.0.0.1:5335
 [/*.allawnos.com/]127.0.0.1:5335
+[/*.amazonaws.com/]127.0.0.1:5335
+
