@@ -7,8 +7,6 @@
 [/*.googleapis.com/]127.0.0.1:5335
 [/*.gmail.com/]127.0.0.1:5335
 [/*.facebook.com/]127.0.0.1:5335
-[/*.fbcdn.net/]127.0.0.1:5335
-[/*.fbstatic-a.akamaihd.net/]127.0.0.1:5335
 [/*.instagram.com/]127.0.0.1:5335
 [/*.twitter.com/]127.0.0.1:5335
 [/*.tiktok.com/]127.0.0.1:5335
@@ -25,17 +23,10 @@
 [/*.spotify.com/]127.0.0.1:5335
 [/*.soundcloud.com/]127.0.0.1:5335
 [/*.whatsapp.com/]127.0.0.1:5335
-[/*.whatsapp.net/]127.0.0.1:5335
 [/*.web.whatsapp.com/]127.0.0.1:5335
 [/*.discord.com/]127.0.0.1:5335
 [/*.slack.com/]127.0.0.1:5335
 [/*.cloudflare.com/]127.0.0.1:5335
-[/*.cloudfront.net/]127.0.0.1:5335
-[/*.fastly.net/]127.0.0.1:5335
-[/*.akamai.net/]127.0.0.1:5335
-[/*.akamaiedge.net/]127.0.0.1:5335
-[/*.edgekey.net/]127.0.0.1:5335
-[/*.edgesuite.net/]127.0.0.1:5335
 [/*.apple.com/]127.0.0.1:5335
 [/*.mzstatic.com/]127.0.0.1:5335
 [/*.icloud.com/]127.0.0.1:5335
@@ -62,7 +53,6 @@
 [/*.appsflyersdk.com/]127.0.0.1:5335
 [/*.gvt1.com/]127.0.0.1:5335
 [/*.gvt2.com/]127.0.0.1:5335
-[/*.1e100.net/]127.0.0.1:5335
 [/*.vviu.com/]127.0.0.1:5335
 [/*.iq.com/]127.0.0.1:5335
 [/*.roblox.com/]127.0.0.1:5335
@@ -81,7 +71,8 @@
 [/*.allawnos.com/]127.0.0.1:5335
 [/*.amazonaws.com/]127.0.0.1:5335
 [/*.my/]127.0.0.1:5335
-[/*.org/]127.0.0.1:5335 
+[/*.org/]127.0.0.1:5335
+[/*.net/]127.0.0.1:5335 
 
 https://dns.google/dns-query
 
