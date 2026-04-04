@@ -108,3 +108,5 @@
 [/*.allawnos.com/]127.0.0.1:5335
 [/*.amazonaws.com/]127.0.0.1:5335
 
+https://dns.google/dns-query
+
