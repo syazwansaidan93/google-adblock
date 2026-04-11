@@ -5,7 +5,9 @@
 [/*.arpa/]127.0.0.1:5335
 # Google ecosystem
 [/*.google.com/]127.0.0.1:5335
+[/google.com/]127.0.0.1:5335
 [/*.googleapis.com/]127.0.0.1:5335
+[/*.googleadservices.com/]127.0.0.1:5335
 [/*.gstatic.com/]127.0.0.1:5335
 [/*.gmail.com/]127.0.0.1:5335
 [/*.googlevideo.com/]127.0.0.1:5335
@@ -20,6 +22,10 @@
 [/*.fbsbx.com/]127.0.0.1:5335
 [/*.instagram.com/]127.0.0.1:5335
 [/*.twitter.com/]127.0.0.1:5335
+[/*.x.com/]127.0.0.1:5335
+[/x.com/]127.0.0.1:5335
+[/t.co/]127.0.0.1:5335
+[/*.twimg.com/]127.0.0.1:5335
 [/*.reddit.com/]127.0.0.1:5335
 [/*.redd.it/]127.0.0.1:5335
 [/*.redditmedia.com/]127.0.0.1:5335
@@ -72,12 +78,15 @@
 [/*.mzstatic.com/]127.0.0.1:5335
 [/*.cdn-apple.com/]127.0.0.1:5335
 [/*.microsoft.com/]127.0.0.1:5335
+[/*.outlook.com/]127.0.0.1:5335
+[/*.live.com/]127.0.0.1:5335
 [/*.windowsupdate.com/]127.0.0.1:5335
 [/*.windows.com/]127.0.0.1:5335
 [/*.android.com/]127.0.0.1:5335
 [/*.google.cn/]127.0.0.1:5335
 # Devices / OEM
 [/*.xiaomi.com/]127.0.0.1:5335
+[/*.miui.com/]127.0.0.1:5335
 [/*.heytapmobile.com/]127.0.0.1:5335
 [/*.hihonorcloud.com/]127.0.0.1:5335
 [/*.vivoglobal.com/]127.0.0.1:5335
