@@ -1,0 +1,71 @@
+# Personal Blocklist - Malaysia Optimized Edition
+# Berdasarkan senarai WaLLy3K & Tambahan Tempatan Malaysia
+# Licensing: CC BY 4.0
+
+## --- SEKATAN GLOBAL (ADSERVERS & TRACKERS) --- ##
+yt.moatads.com
+us.intellitxt.com
+evolveplatform.net
+adservice.google.com.au
+ade.googlesyndication.com
+doubleclick.net
+googlesyndication.com
+googletagservices.com
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+sdk.appsflyer.com
+hbopenbid.pubmatic.com
+ads.samsung.com
+samsungads.com
+ad.mopub.com
+
+## --- TELEMETRI & ANALYTICS (PRIVASI) --- ##
+metrics.plex.tv
+analytics.plex.tv
+api.branch.io
+gate.hockeyapp.net
+telemetry.nvidia.com
+telemetry.malwarebytes.com
+in.treasuredata.com
+analytics.kidoz.net
+api.amplitude.com
+
+## --- MALAYSIA SPECIFIC & REGIONAL (BERITA/PORTAL) --- ##
+# Sekatan trackers/ads untuk portal berita tempatan yang berat
+ads.promis.com.my
+api.bharian.com.my/v1/telemetry
+analytics.nstp.com.my
+ads.utusan.com.my
+pixel.thestar.com.my
+tpc.googlesyndication.com
+partnerads.g.doubleclick.net
+
+## --- E-COMMERCE TRACKERS (SHOPEE/LAZADA/GRAB) --- ##
+# Mengurangkan penjejakan agresif semasa melayar web lain
+tracking.shopee.com.my
+analytics.shopee.com.my
+groot.shopee.com.my
+tracker.lazada.com.my
+p1.itp.lazada.com
+api.grab.com/telemetry
+
+## --- MALWARE & PHISHING (UMUM & TEMPATAN) --- ##
+exclusive-vouchers.com
+aloseks.org
+shortyz.co
+groceriesgiftcards.com
+uaswitcher.org
+startdigitaal.nl
+
+## --- CRYPTO MINERS (IN-BROWSER) --- ##
+coin-hive.com
+coinhiveproxy.com
+jsecoin.com
+crypto-loot.com
+
+## --- ANTI-ADBLOCK BYPASS --- ##
+rules.noadblock.org
+bannertrack.net
+adtrackers.net
+summerhamster.com
+roosterfirework.com
